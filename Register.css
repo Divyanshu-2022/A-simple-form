@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    display: block;
+    border: 2 px solid red;
+    background-image: linear-gradient(135deg,blue,red);
+    background-size: cover;
+    background-position: center;
+}
+input{
+    color: red;
+}
+.one{
+    color: blueviolet;
+}
+.two{
+    color: brown;
+}
+.three{
+    color: red;
+}
+form{
+    text-decoration: dotted;
+    color: lavenderblush;
+    background: var(--color-darkblue-alpha);
+    padding: 2.5rem 0.625rem;
+    border:5px solid red;
+    height: 250px;
+    width:200px;
+    background-image: repeating-linear-gradient(156deg,darkblue,yellow);
+    border-radius: 0.25rem;
+}
+.Div{
+  padding: 7%;
+margin: 7%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
